@@ -1,0 +1,24 @@
+﻿@model Shop.Models.Category
+
+@{
+    ViewBag.Title = @Model.Name;
+}
+
+<div class="category">
+    <h2><b>@Model.Name</b></h2>
+
+    <ul id="clothing-list">
+        @foreach (var clothing in Model.Clothes)
+        {
+            <li>
+                <a href="@Url.Action("Details",
+                    new { id = clothing.ID_clothing })">
+                    <img alt="@clothing.Name"
+                         src="@clothing.Photo" style="width:100%" />
+                    <span>@clothing.Name</span>
+                    <p><span>@clothing.Price ₽</span></p>
+                </a>
+            </li>
+         }
+    </ul>
+</div>

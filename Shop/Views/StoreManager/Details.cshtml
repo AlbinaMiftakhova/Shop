@@ -1,0 +1,40 @@
+﻿@model Shop.Models.Clothing
+
+@{
+    ViewBag.Title = "Детали";
+}
+
+<h2><b>Детали</b></h2>
+
+<div style="margin:0 0 40px 40px">
+    <div><b>Категория</b></div>
+    <div class="display-field">
+        @Html.Display("Category.Name")
+    </div>
+
+    <div><b>Наименование</b></div>
+    <div class="display-field">
+        @Html.Display("Name")
+    </div>
+
+    <div><b>Цена</b></div>
+    <div class="display-field">
+        @Html.Display("Price")
+    </div>
+
+    <div><b>Фото</b></div>
+    <div class="display-field">
+        @Html.Display("Photo")
+    </div>
+
+    <div><b>Фото 2</b></div>
+    <div class="display-field">
+        @Html.Display("Photo1")
+    </div>
+</div>
+<p id="details">
+    @Html.ActionLink("Редактировать", "Edit", new { id = Model.ID_clothing}) 
+</p>
+<p id="details">
+    @Html.ActionLink("Вернуться к списку", "Index")
+</p>

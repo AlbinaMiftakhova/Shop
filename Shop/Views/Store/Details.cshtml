@@ -1,0 +1,22 @@
+﻿@model Shop.Models.Clothing
+
+@{
+    ViewBag.Title = @Model.Name;
+}
+
+<img alt="@Model.Name" src="@Model.Photo" style="width:300px; margin-right:10px; margin-top:20px; float:right" />
+<img alt="@Model.Name" src="@Model.Photo1" style="width:300px; margin-right:10px; margin-top:20px; float:right" />
+<div style="float:left; width: 360px;">
+    <h3><b>@Model.Name</b></h3>
+    <p>
+        Категория:
+        @Model.Category.Name
+    </p>
+    <p>
+        Цена:
+        @String.Format("{0:F}", Model.Price) ₽
+    </p>
+    <p class="button" style="width: 182px;">
+        @Html.ActionLink("Добавить в корзину", "AddToCart", "ShoppingCart", new { id = Model.ID_clothing }, "")
+    </p>
+</div>

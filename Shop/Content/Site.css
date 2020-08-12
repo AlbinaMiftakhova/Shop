@@ -1,0 +1,164 @@
+﻿body {
+    font-family: 'Century Gothic';
+    font-size: 14pt;
+    background-color: #ffffff;
+    color: #3a3a3c;
+    margin-top: 24px;
+}
+
+#header {
+    float: left;
+    width: 100%;
+}
+
+    #header h1 {
+        float: left;
+        background: url(/Content/Logo.bmp) no-repeat;
+        padding: 27px 0px 0px 101px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 40px;
+    }
+
+#main {
+    overflow: hidden;
+    padding: 45px 0 15px 10px;
+}
+
+ul li a {
+    font-size: 16px;
+    padding: 10px;
+    color: #3a3a3c;
+    text-decoration: none;
+    padding-left:0px;
+}
+ul li {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+ul#navlist {
+    float: right;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+}
+
+    ul#navlist li {
+        display: inline;
+    }
+
+        ul#navlist li a {
+            padding: 10px;
+            color: #3a3a3c;
+            text-decoration: none;
+            float: left;
+        }
+
+h2 {
+    padding-left: 40px;
+    font-family: 'Century Gothic';
+    font-size: 16pt;
+    background-color: #ffffff;
+    font-weight: 200;
+    color: #3a3a3c;
+}
+#categories {
+    list-style-type: none;
+    padding-right: 10px;
+    margin: 47px 50px 50px 0;
+    float: left;
+}
+ul {
+    list-style-type: square;
+    font-size: 14px;
+}
+
+    ul#clothing-list {
+        list-style: none;
+        margin-left: 0px;
+        padding-left:30px;
+    }
+
+        ul#clothing-list li {
+            width: 280px;
+            float: left;
+            margin: 10px;
+            text-align: center;
+        }
+
+            ul#clothing-list li a, ul#clothing-list li .button {
+                font-size: 13px;
+                float: left;
+            }
+
+p#details {
+    margin-bottom: 15px;
+    margin-top: 0px;
+    padding-left: 40px;
+}
+
+.button a {
+    color: #fff;
+}
+.button, input[type=submit] {
+    padding: 5px;
+    margin-top: 10px;
+    color: #fff;
+    background: #000;
+    font-size: 14pt;
+    font-family: 'Century Gothic';
+    padding-right: 5%;
+    padding-left: 5%
+}
+a {
+    text-decoration: none;
+    color:#000;
+}
+table{
+    margin-left:40px;
+
+}
+    table tr {
+        white-space:nowrap;
+        height: 37px;
+    }
+    table td {
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+div.editor-field {
+    margin-bottom: 10px;
+}
+
+input[type=text], input[type=password], input[type=email], select {
+    border: 1px solid #8A8575;
+    width: 300px;
+    height: 25px;
+    font-size: 14pt;
+    font-family: 'Century Gothic';
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 7px;
+}
+
+.field-validation-error {
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.validation-summary-errors {
+    margin-left: 40px;
+    font-size: 13px;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+#update-message {
+    padding-left:40px;
+}

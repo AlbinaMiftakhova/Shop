@@ -1,0 +1,340 @@
+C:\Users\albin\source\repos\Shop\Shop\bin\Shop.dll.config
+C:\Users\albin\source\repos\Shop\Shop\bin\Shop.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Shop.pdb
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.AppContext.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Console.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\albin\source\repos\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\albin\source\repos\Shop\Shop\bin\Antlr3.Runtime.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\EntityFramework.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Newtonsoft.Json.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Helpers.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Mvc.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Optimization.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Razor.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Webpages.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Webpages.Razor.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\WebGrease.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Antlr3.Runtime.pdb
+C:\Users\albin\source\repos\Shop\Shop\bin\EntityFramework.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Newtonsoft.Json.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Optimization.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Razor.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Webpages.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Webpages.Razor.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Helpers.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Web.Mvc.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\ru\System.Web.Razor.resources.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\albin\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\albin\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\albin\source\repos\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\albin\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Options.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Owin.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Win32.Registry.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Owin.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Buffers.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.ComponentModel.Annotations.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Memory.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Numerics.Vectors.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Security.AccessControl.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Security.Cryptography.Xml.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Security.Permissions.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Security.Principal.Windows.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Text.Encodings.Web.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Options.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Owin.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Buffers.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Memory.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Numerics.Vectors.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\System.Text.Encodings.Web.xml
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\albin\source\repos\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\albin\OneDrive\Рабочий стол\Учеба второй семестр\Курсач\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\albin\OneDrive\Рабочий стол\Учеба второй семестр\Курсач\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Рабочий стол\Учеба второй семестр\Курсач\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\albin\OneDrive\Рабочий стол\Учеба второй семестр\Курсач\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\albin\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Shop.dll.config
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Shop.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Shop.pdb
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.AppContext.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Console.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Net.Http.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Antlr3.Runtime.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\EntityFramework.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Options.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Owin.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Owin.Security.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Win32.Registry.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Newtonsoft.Json.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Owin.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Buffers.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.ComponentModel.Annotations.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Memory.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Numerics.Vectors.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Security.AccessControl.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Security.Cryptography.Xml.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Security.Permissions.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Security.Principal.Windows.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Text.Encodings.Web.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Helpers.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Mvc.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Optimization.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Razor.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Webpages.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Webpages.Razor.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\WebGrease.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Antlr3.Runtime.pdb
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\EntityFramework.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\EntityFramework.SqlServer.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Options.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Owin.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Owin.Security.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Newtonsoft.Json.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Buffers.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Memory.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Numerics.Vectors.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Text.Encodings.Web.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Optimization.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Razor.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Webpages.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Webpages.Razor.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Helpers.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\System.Web.Mvc.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\ru\System.Web.Razor.resources.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\albin\OneDrive\Рабочий стол\Shop\Shop\obj\Debug\Shop.pdb

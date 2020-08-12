@@ -1,0 +1,21 @@
+﻿@model Shop.Models.Clothing
+
+@{
+    ViewBag.Title = "Удаление";
+}
+
+<h2><b>Удаление</b></h2>
+<p id="details">
+    Вы уверены, что хотите удалить
+    <strong>@Model.Name</strong>?
+</p>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <p id="details">
+        <input type="submit" value="Удалить" />
+    </p>
+    <p id="details">
+        @Html.ActionLink("Вернуться к списку", "Index")
+    </p>
+}

@@ -1,0 +1,9 @@
+﻿@model int
+@{
+    ViewBag.Title = "Заказ совершен";
+}
+<h2><b>Заказ совершен</b></h2>
+<p id="details">Спасибо за ваш заказ! Номер заказа: @Model</p>
+<p id="details">
+    Сделайте новый заказ в нашем @Html.ActionLink("каталоге", "Index", "Home", null, new { style = "text-decoration:underline" })
+</p>

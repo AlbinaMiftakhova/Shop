@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Shop.Models.Clothing>
+
+@helper Truncate(string input, int length)
+{
+    if (input.Length <= length)
+    {
+        @input
+    }
+    else
+    {
+        @input.Substring(0, length)<text>...</text>
+    }
+}
+@{
+    ViewBag.Title = "Управление";
+}
+
+<h2><b>Управление</b></h2>
+
+<p id="details">
+    @Html.ActionLink("Создать...", "Create", null, null, new { style = "text-decoration: underline;" })
+</p>
+<table>
+    <tr>
+        <td>
+            <b>Категория</b>
+        </td>
+        <td>
+            <b>Наименование</b>
+        </td>
+        <td>
+            <b>Цена</b>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                @Truncate(item.Name, 25)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price) ₽
+            </td>
+            <td>
+                @Html.ActionLink("Редактировать", "Edit", new { id = item.ID_clothing })
+            </td>
+            <td>
+                @Html.ActionLink("Детали", "Details", new { id = item.ID_clothing })
+            </td>
+            <td>
+                @Html.ActionLink("Удалить", "Delete", new { id = item.ID_clothing })
+            </td>
+        </tr>
+     }
+</table>

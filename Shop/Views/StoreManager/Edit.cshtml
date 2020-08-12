@@ -1,0 +1,52 @@
+﻿@model Shop.Models.Clothing
+
+@{
+    ViewBag.Title = "Редактирование";
+}
+
+<h2><b>Редактирование</b></h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    @Html.HiddenFor(model => model.ID_clothing)
+<div style="margin-left:40px;">
+    <div>
+        @Html.LabelFor(model => model.ID_category, "Категория")
+    </div>
+    <div class="editor-field">
+        @Html.DropDownList("ID_category", String.Empty)
+        @Html.ValidationMessageFor(model => model.ID_category)
+    </div>
+    <div>Наименование</div>
+    <div class="editor-field">
+        @Html.Editor("Name")
+        @Html.ValidationMessageFor(model => model.Name)
+    </div>
+
+    <div>Цена</div>
+    <div class="editor-field">
+        @Html.Editor("Prices")
+        @Html.ValidationMessageFor(model => model.Price)
+    </div>
+
+    <div>Фото</div>
+    <div class="editor-field">
+        @Html.Editor("Photo")
+        @Html.ValidationMessageFor(model => model.Photo)
+    </div>
+
+    <div>Фото 2</div>
+    <div class="editor-field">
+        @Html.Editor("Photo1")
+        @Html.ValidationMessageFor(model => model.Photo1)
+    </div>
+    <p>
+        <input type="submit" value="Сохранить" />
+    </p>
+</div>
+}
+
+<p id="details">
+    @Html.ActionLink("Вернуться к списку", "Index")
+</p>
